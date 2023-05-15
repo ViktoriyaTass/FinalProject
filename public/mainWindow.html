@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File and Settings Uploader</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            max-width: 600px;
+            margin: 0 auto;
+           
+            
+        }
+        .form-group {
+            
+            margin-bottom: 50px;
+        
+        }
+       
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+        input[type="file"] {
+            
+            display: none;
+        }
+        .choose-file-btn {
+            padding: 10px;
+            background-color: #3969bc;
+            color: white;
+            cursor: pointer;
+            border: none;
+            font-size: 14px;
+            width:20%;
+        }
+        select,input[type="text"] {
+            padding: 10px;
+            width: 100%;
+            font-size: 14px;
+        }
+        
+       
+        .radio-container {
+            
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .radio-group {
+            
+            display: flex;
+            align-items: center;
+        }
+        .footer-buttons {
+            display: flex;
+            justify-content: space-between;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #5c7cef;
+            color: white;
+            cursor: pointer;
+            border: none;
+            font-size: 14px;
+        }
+      
+    
+    </style>
+</head>
+<body style="background-color:rgba(222, 242, 212, 0.605)">
+    <!-- As a link -->
+    
+    <a class="button  btn btn-primary " aria-current="page" href="logInWindow.html"><b>Application for K-Mismatch</b></a>
+            </body>
+            
+<div><p> </p></div>
+<div><p> </p></div>
+<div><p> </p></div>
+<body>
+    <div class="container">
+        <form id="settingsForm">
+            <div class="form-group">
+                <label for="pdfFileInput">Choose File</label>
+                <input type="file" id="pdfFileInput" accept=".pdf">
+                <label for="pdfFileInput" class="choose-file-btn">Select PDF File</label>
+            </div>
+            <div><p> </p></div>
+            <div><p> </p></div>
+            <div><p> </p></div>
+         
+            <div class="form-group">
+                
+                <label for="chooseSpeed">Choose Speed</label>
+                <select id="chooseSpeed">
+                    <option value="High">High Speed</option>
+                    <option value="medium">Medium Speed</option>
+                    <option value="low">Low Speed</option>
+                
+                </select>
+            
+           
+            </div>
+            <div><p> </p></div>
+            <div><p> </p></div>
+            <div><p> </p></div>
+            <div class="radio-group">
+                <div class="radio-container">
+                    <div class="radio-group">
+                        <input type="radio" id="searchByWords" name="searchType" value="words" checked>
+                        <label for="searchByWords">Search by Words</label>
+                        <div><p> </p></div>
+                        <div><p> </p></div>
+                        <div><p> </p></div>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="container">
+                <form id="settingsForm">
+                    <div class="form-group">
+                        <label for="pdfFileInput">Choose File With Words</label>
+                        <input type="file" id="pdfFileInput" accept=".pdf">
+                        <label for="pdfFileInput" class="choose-file-btn">Select PDF File</label>
+                    </div>
+
+                    <div class="radio-group">
+                        <input type="radio" id="searchByLength" name="searchType" value="length">
+                        <label for="searchByLength">Search by Length</label>
+                    </div>
+                    
+             
+        <div> </p></div>
+        <div> </p></div>
+        <div> </p></div>
+                           <div class="form-group">
+                <label for="errorTreshold">Error Thresholds</label>
+                <input type="text" id="errorTreshold">
+                <div><p> </p></div>
+            <div><p> </p></div>
+
+                <button type="button" class="btn btn-primary" onclick="CheckCosts_Function"><b>Check Costs</b></button>
+          
+                          </div>
+        </div><div><p> </p></div>
+        
+    
+           
+            <div><p> </p></div>
+            <div><p> </p></div>
+            <div><p> </p></div>
+            <body>
+                <div class="container">
+                    <!-- Your form content here -->
+                    <div class="footer-buttons">
+                        <button type="button" id="backButton" onclick="goBack()">Back</button>
+                        <button type="button" id="startButton" onclick="startFunction()">Payment</button>
+                    </div>
+                </div>
+                <script>
+                    function goBack() {
+                        window.location.href = "logInWindow.html";
+                    }
+            
+                    function startFunction() {
+                        window.location.href = "payment.html";
+                    }
+                </script>
+            </body>
+
+        </form>
+    </div>
+</html>

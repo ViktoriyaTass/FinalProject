@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File and Settings Uploader</title>
+    
+</head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+    }
+    .container {
+        display: flex;
+        flex-direction: column;
+        max-width: 600px;
+        margin: 0 auto;
+        
+    }
+    .form-group {
+        
+        margin-bottom: 14px;
+    
+    }
+   
+    label {
+        display: block;
+        margin-bottom: 10px;
+    }
+    input[type="file"] {
+        
+        display: none;
+    }
+    .choose-file-btn {
+        padding: 10px;
+        background-color: #3969bc;
+        color: white;
+        cursor: pointer;
+        border: none;
+        font-size: 14px;
+    }
+    select,input[type="text"] {
+        padding: 10px;
+        width: 50%;
+        font-size: 14px;
+    }
+    
+   
+    .radio-container {
+        
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .radio-group {
+        
+        display: flex;
+        align-items: center;
+    }
+    .footer-buttons {
+        display: flex;
+        justify-content: space-between;
+    }
+    button {
+        padding: 10px 20px;
+        background-color: #5c7cef;
+        color: white;
+        cursor: pointer;
+        border: none;
+        font-size: 14px;
+    }
+  
+
+</style>
+  <body style="background-color:rgba(222, 242, 212, 0.605)">
+    <!-- As a link -->
+    
+    <a class="button  btn btn-primary " aria-current="page" href="logInWindow.html"><b>Application for K-Mismatch</b></a>
+            </body>
+            <div> </p></div>
+            <div> </p></div>
+            <div> </p></div>
+  <form>
+    <h1>Payment Details</h1>
+    
+    <label for="cardNumber">Card Number:</label>
+    <input type="text" id="cardNumber" name="cardNumber" placeholder="Enter card number">
+    <div> </p></div>
+    <div> </p></div>
+    <div> </p></div>
+    <label for="expiryDate">Expiring Date (MM/YY):</label>
+    <input type="text" id="expiryDate" name="expiryDate" placeholder="Enter expiry date" required>
+    <div> </p></div>
+    <div> </p></div>
+    <div> </p></div>
+    <label for="cvv">CVV Code:</label>
+    <input type="text" id="cvv" name="cvv" placeholder="Enter CVV code">
+    <div> </p></div>
+    <div> </p></div>
+    <div> </p></div>
+    <button type="submit">Start</button>
+    <a class="button  btn btn-primary " aria-current="page" href="mainWindow.html"><b>Back</b></a>
+  </form>
+
+</html>

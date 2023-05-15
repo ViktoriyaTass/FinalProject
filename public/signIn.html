@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>File and Settings Uploader</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 20px;
+            }
+            .container {
+                display: flex;
+                flex-direction: column;
+                max-width: 600px;
+                margin: 0 auto;
+            }
+            .form-group {
+                margin-bottom: 50px;
+            }
+            label {
+                display: block;
+                margin-bottom: 10px;
+            }
+            input[type="file"] {
+                display: none;
+            }
+            .choose-file-btn {
+                padding: 10px;
+                background-color: #3969bc;
+                color: white;
+                cursor: pointer;
+                border: none;
+                font-size: 14px;
+            }
+            select, input[type="text"] {
+                padding: 10px;
+                width: 100%;
+                font-size: 14px;
+            }
+            .radio-container {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+            .radio-group {
+                display: flex;
+                align-items: center;
+            }
+            .footer-buttons {
+                display: flex;
+                justify-content: space-between;
+            }
+            button {
+                padding: 10px 20px;
+                background-color: #5c7cef;
+                color: white;
+                cursor: pointer;
+                border: none;
+                font-size: 14px;
+            }
+        </style>
+    </head>
+    <body style="background-color:rgba(222, 242, 212, 0.605)">
+        <!-- As a link -->
+        
+        <a class="button  btn btn-primary " aria-current="page" href="logInWindow.html"><b>Application for K-Mismatch</b></a>
+        <div><p> </p></div>
+        <div><p> </p></div>
+        <div><p> </p></div>
+                </body>
+                
+ 
+
+                <div class="container">
+			
+
+
+                    <div class="row">
+                       
+                            <form>
+                            
+                                
+                                    <tagname style="color:rgb(5, 10, 7);">
+                                        <div><p> </p></div>
+                                        <div><p> </p></div>
+                                        <div><p> </p></div>
+                                    <div style = "position:relative; left:10px; top:2px;">
+                                    <label for="username">Enter E-mail address</label>
+                                    
+                                    <input type="text" class="form-control" id="username">
+                                     </div>
+                                    <div><p> </p></div>
+                                    <div><p> </p></div>
+                                    <div style = "position:relative; left:10px; top:2px; "> 
+                                    <label for="password">Enter password</label>
+                                    <input type="text" class="form-control" id="password">
+
+
+                                <div><p> </p></div>
+                                
+                                <body>
+                                    <div class="container">
+                                        <!-- Your form content here -->
+                                        <div class="footer-buttons">
+                                            <button type="button" id="backButton" onclick="back()">Back</button>
+                                            <button type="button" id="startButton" onclick="signIn()">Sign In</button>
+                                        </div>
+                                    </div>
+                                    <script>
+                                        function signIn() {
+                                            window.location.href = "mainWindow.html";
+                                        }
+                                
+                                        function back() {
+                                            window.location.href = "logInWindow.html";
+                                        }
+                                    </script>
+                                </body>
+                               
+                               
+
+                                
+                                <div><p> </p></div>
+                                <div><p> </p></div>
+                            </form>
+
+                         </div>
+                  </div>
