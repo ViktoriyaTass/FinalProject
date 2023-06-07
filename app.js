@@ -4,15 +4,25 @@ var db = require("./database.js");
 
 app.use(express.static("public"));
 
-app.get("/CheckUser", function(req, res){
+	app.get("/CheckUser", function(req, res){
 
-	var {email, password} = req.query;
+		var {email, password} = req.query;
 
-	db.data(email, password, function(result){
-		res.send(JSON.stringify({res : result}));
-	})
-	
-});
+		db.data(email, password, function(result){
+			res.send(JSON.stringify({res : result}));
+		})
+		
+	});
+
+	app.get("/AddUser",function(req,res){
+		var{email,password}=req.query;
+		db.add(email,password,function(result){
+			res.send(
+				JSON.stringify({res:result}));
+
+		})
+
+	});
 
 // app.get("/index2", function(req, res){
 // 	res.sendFile(__dirname + "/public/html/index2.html");

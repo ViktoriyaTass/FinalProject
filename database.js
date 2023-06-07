@@ -33,7 +33,27 @@ module.exports = {
       }
       onRes(results.length > 0);
   
-  });
-}
+  });},
+// }
+//   module.exports={
+    add : function(email,password,onRes){
 
- }
+  connection.query("SELECT * FROM sys.users where username='"+email+"' and userpassword='"+password+"'", (error, results) => {
+  console.log(results);
+  if(results.length>0)
+  {onRes (0); }
+  else
+    connection.query("insert into sys.users(username,userPassword) values('"+email+"','"+password+"')",(error,results=>{
+    if (error){
+      console.error('Error executing query:', error);
+      return;
+    }
+     onRes(1);
+    }))
+   
+  
+  // console.error('Error executing query:', error);
+  //   return;
+
+ });
+}}
