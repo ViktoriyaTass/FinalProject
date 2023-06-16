@@ -34,8 +34,7 @@ module.exports = {
       onRes(results.length > 0);
   
   });},
-// }
-//   module.exports={
+
     add : function(email,password,onRes){
 
   connection.query("SELECT * FROM sys.users where username='"+email+"' and userpassword='"+password+"'", (error, results) => {
