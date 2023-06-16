@@ -2,6 +2,11 @@ var express = require("express");
 var app = express();  
 var db = require("./database.js");
 var fs = require('fs');
+global.nameFileText;
+global.nameFileWords;
+global.lengthOfTheWords;
+global.errorThresholds;
+global.speed;
 
 const path = require("path");
 const upload=require("express-fileupload");
@@ -31,6 +36,46 @@ app.use(express.static("public"));
 	});
 
 
+	app.get("/AddParrameters",function(req,res){
+		var{lengthOfTheWords,errorThresholds,speed}=req.query;
+		console.log(lengthOfTheWords+errorThresholds+speed);
+		global.lengthOfTheWords=lengthOfTheWords;
+		global.errorThresholds=errorThresholds;
+		global.speed=speed;
+		
+
+
+
+	});
+
+app.get("/start",function(req,res){
+
+	var data={
+		ErrorThresholds:global.errorThresholds,
+		lengthOfTheWords:global.lengthOfTheWords,
+		nameFileText:global.nameFileText,
+		nameFileWords:global.nameFileWords,
+		Speed:global.speed
+	}
+
+		let jsonName="input.json"
+		const jData=JSON.stringify(data);
+		fs.writeFile(P,jData, (err) => {
+			if (err) {
+			  console.error('Error creating file:', err);
+			} else {
+			  console.log('File created successfully!');
+			}
+		  });
+
+
+
+})
+
+
+
+
+
 	app.get('/file-upload1',(req,res)=>{
 		console.log("GET");
 		res.sendFile(_dirname+'mainWindow.html')
@@ -42,41 +87,45 @@ app.use(express.static("public"));
 		let file=req.files.file;
 		let filename= file.name;
 		console.log(filename);
+		nameFileText=filename;
 		file.mv('C:/Users/galbu/Desktop/FFF/upload/'+filename,(err)=>{
 			if(err) throw err;
 		})
 		}
 		console.log("file uploaded");
-		//let jsonName="input.json"
-		var obj = {name : 'john'};
-		const jData=JSON.stringify(obj);
-		fs.writeFile(P,jData, (err) => {
-			if (err) {
-			  console.error('Error creating file:', err);
-			} else {
-			  console.log('File created successfully!');
-			}
-		  });
-		  	console.log("create json");
+		
+		// //let jsonName="input.json"
+		// var obj = {name : 'john'};
+		// const jData=JSON.stringify(obj);
+		// fs.writeFile(P,jData, (err) => {
+		// 	if (err) {
+		// 	  console.error('Error creating file:', err);
+		// 	} else {
+		// 	  console.log('File created successfully!');
+		// 	}
+		//   });
+		//   	console.log("create json");
 
 
 
-			fs.readFile(P, 'utf8', function(err, data){
-				if (err) {
-					console.error('Error writing JSON file:', err);
-				  } 
-			// Display the file content
-			console.log(data);
-			let jsonData = JSON.parse(data);
-			var obj = {name : 'fill'} ;////////////////////////////////////////////////// need change a add data to json
-			const jsonString = JSON.stringify(obj);
-			fs.writeFile(P, jsonString, (err) => {
-				if (err) {
-				  console.error('Error writing JSON file:', err);
-				} else {
-				  console.log('Data uploaded to JSON file successfully!');
-				}
-			  });
+		// 	fs.readFile(P, 'utf8', function(err, data){
+		// 		if (err) {
+		// 			console.error('Error writing JSON file:', err);
+		// 		  } 
+		// 	// Display the file content
+		// 	console.log(data);
+		// 	var obj = data+{name : 'fill'} 
+		// 	let jsonData = JSON.parse(data);
+		// 	console.log("11"+data);
+		// 	;////////////////////////////////////////////////// need change a add data to json
+		// 	const jsonString = JSON.stringify(obj);
+		// 	fs.writeFile(P, jsonString, (err) => {
+		// 		if (err) {
+		// 		  console.error('Error writing JSON file:', err);
+		// 		} else {
+		// 		  console.log('Data uploaded to JSON file successfully!');
+		// 		}
+		// 	  });
 			//   var obj2 = {name : 'fill'} ;
 			//   const jsonString2 = JSON.stringify(obj);
 			//   fs.writeFile('C:/Users/galbu/Desktop/FFF/upload/'+jsonName, jsonString2, (err) => {
@@ -86,10 +135,7 @@ app.use(express.static("public"));
 			// 		console.log('Data uploaded to JSON file successfully!');
 			// 	  }
 			// 	});
-
-
-
-			});
+			//});
 
 
 	})
@@ -105,7 +151,7 @@ app.use(express.static("public"));
 		let file=req.files.file;
 		let filename= file.name;
 		console.log(filename);
-		console.log(file);
+		nameFileWords=filename;
 		file.mv('C:/Users/galbu/Desktop/FFF/upload/'+filename,(err)=>{
 			if(err) throw err;
 		})

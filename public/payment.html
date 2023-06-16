@@ -100,7 +100,25 @@
     <div> </p></div>
     <div> </p></div>
     <div> </p></div>
-    <button type="submit">Start</button>
+    <body>
+        <div>
+
+            <button type="submit" onclick=start()>Start</button>
+        </div>
+
+        <script>
+            function start(){
+                const req = new XMLHttpRequest();                            
+                req.open("GET", "/start");
+                req.send();
+              
+            }
+
+
+
+        </script>
+    </body>
+    
     <a class="button  btn btn-primary " aria-current="page" href="mainWindow.html"><b>Back</b></a>
   </form>
 

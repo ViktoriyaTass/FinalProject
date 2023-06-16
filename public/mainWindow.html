@@ -194,9 +194,9 @@
                 </div>
                 <script>
 
-                    document.getElementById("startButton").addEventListener("click", function() {
-                var speed = document.getElementById("chooseSpeed").value;
-                var thresholds= document.getElementById("errorTreshold").value;
+                //     document.getElementById("startButton").addEventListener("click", function() {
+                // var speed = document.getElementById("chooseSpeed").value;
+                // var thresholds= document.getElementById("errorTreshold").value;
                 // var fileInputText = document.getElementById("pdfFileInputText");
                 // var fileText = fileInputText.files[0];
                 // var pdfFileInputWords = document.getElementById("pdfFileInputWords");
@@ -208,32 +208,32 @@
                 // var formDataWords = new FormData();
                 // formDataWords.append('pdfFile', fileWords);
   
-                 var data = {
-                    speed: speed,
-                      thresholds: thresholds,
-                     // pdfFileText: fileText.name,
-                      //pdfFileWords: fileWords.name
+            //      var data = {
+            //         speed: speed,
+            //           thresholds: thresholds,
+            //           pdfFileText: fileText.name,
+            //           pdfFileWords: fileWords.name
 
-            };
+            // };
 
-            fetch('userParametrs.json', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify(data)
-            })
-            .then(function(response) {
-                if (response.ok) {
-                    console.log('Data saved correctly');
-                } else {
-                    console.error('Error save data');
-                }
-            })
-            .catch(function(error) {
-                console.error('Server error', error);
-            });
-        });
+        //     fetch('userParametrs.json', {
+        //         method: 'POST',
+        //         headers: {
+        //             'Content-Type': 'application/json'
+        //         },
+        //         body: JSON.stringify(data)
+        //     })
+        //     .then(function(response) {
+        //         if (response.ok) {
+        //             console.log('Data saved correctly');
+        //         } else {
+        //             console.error('Error save data');
+        //         }
+        //     })
+        //     .catch(function(error) {
+        //         console.error('Server error', error);
+        //     });
+        // });
                     function goBack() {
                         window.location.href = "logInWindow.html";
                     }
@@ -241,7 +241,38 @@
                     function startFunction() {
 
 
-                        window.location.href = "payment.html";
+                    const lengthOfTheWords= document.getElementById('LengthWord').value;
+                    const errorThresholds = document.getElementById('errorTreshold').value;
+                    const speed           = document.getElementById('chooseSpeed').value;
+                    if (lengthOfTheWords === '') {
+                        alert('Please enter a lengthOfTheWords.');
+                          return;
+                     }
+                     if (errorThresholds === '') {
+                          alert('Please enter a errorThresholds.');
+                             return;
+                     }
+                     if (speed === '') {
+                          alert('Please enter a speed.');
+                             return;
+                     }
+                                                const req = new XMLHttpRequest();
+                                                // req.addEventListener("load", function(){
+                                                //     var res = JSON.parse(this.responseText);
+                                                //     console.log("Res: "+res.res);
+                                                //     if (res.res)
+                                                //     {window.location.href = "payment.html";}
+                                                //     else{
+                                                //         alert('Username already exists.Please choose another username');
+                                                //     }
+                                                //});
+                                                req.open("GET", "/AddParrameters?lengthOfTheWords="+lengthOfTheWords+"&errorThresholds="+errorThresholds+"&speed="+speed);
+                                                req.send();
+                                                window.location.href = "payment.html";
+
+
+
+                        // window.location.href = "payment.html";
                     }
                 </script>
             </body>
