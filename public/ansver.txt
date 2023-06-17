@@ -1,0 +1,2836 @@
+Seed Content In Src: TCGACCAGT  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 140
+	Sequence Name: Sequence5 SeedContent: TCGATCTCG Offset In Sequence: 144
+	Sequence Name: Sequence5 SeedContent: TCGACCAGT Offset In Sequence: 150
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTF Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 5
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 9
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 13
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 17
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 21
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 25
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 29
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 33
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 37
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 41
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 45
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 49
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 53
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 57
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 61
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 65
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 69
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 73
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 77
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 81
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 85
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 89
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 93
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 97
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 101
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 105
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 109
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 113
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 117
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 121
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 125
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 129
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 133
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 137
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 141
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFL Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLO Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOG Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGY Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGY Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJ Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJ Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJH Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJH Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: TFLOGYJHS Offset In Sequence: 8
+	Sequence Name: Sequence6 SeedContent: UFLOGYJHS Offset In Sequence: 20
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGT  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 140
+	Sequence Name: Sequence5 SeedContent: TCGATCTCG Offset In Sequence: 144
+	Sequence Name: Sequence5 SeedContent: TCGACCAGT Offset In Sequence: 150
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTF Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 5
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 9
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 13
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 17
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 21
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 25
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 29
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 33
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 37
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 41
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 45
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 49
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 53
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 57
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 61
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 65
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 69
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 73
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 77
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 81
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 85
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 89
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 93
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 97
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 101
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 105
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 109
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 113
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 117
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 121
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 125
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 129
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 133
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 137
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 141
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFL Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLO Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOG Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGY Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGY Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJ Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJ Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJH Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJH Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: TFLOGYJHS Offset In Sequence: 8
+	Sequence Name: Sequence6 SeedContent: UFLOGYJHS Offset In Sequence: 20
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGT  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 140
+	Sequence Name: Sequence5 SeedContent: TCGATCTCG Offset In Sequence: 144
+	Sequence Name: Sequence5 SeedContent: TCGACCAGT Offset In Sequence: 150
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTF Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 5
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 9
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 13
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 17
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 21
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 25
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 29
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 33
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 37
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 41
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 45
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 49
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 53
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 57
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 61
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 65
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 69
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 73
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 77
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 81
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 85
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 89
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 93
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 97
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 101
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 105
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 109
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 113
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 117
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 121
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 125
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 129
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 133
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 137
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 141
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFL Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLO Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOG Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGY Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGY Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJ Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJ Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJH Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJH Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: TFLOGYJHS Offset In Sequence: 8
+	Sequence Name: Sequence6 SeedContent: UFLOGYJHS Offset In Sequence: 20
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGT  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 140
+	Sequence Name: Sequence5 SeedContent: TCGATCTCG Offset In Sequence: 144
+	Sequence Name: Sequence5 SeedContent: TCGACCAGT Offset In Sequence: 150
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTF Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 5
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 9
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 13
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 17
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 21
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 25
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 29
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 33
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 37
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 41
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 45
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 49
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 53
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 57
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 61
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 65
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 69
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 73
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 77
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 81
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 85
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 89
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 93
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 97
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 101
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 105
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 109
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 113
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 117
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 121
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 125
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 129
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 133
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 137
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 141
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFL Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLO Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOG Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGY Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGY Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJ Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJ Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJH Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJH Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: TFLOGYJHS Offset In Sequence: 8
+	Sequence Name: Sequence6 SeedContent: UFLOGYJHS Offset In Sequence: 20
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGT  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 140
+	Sequence Name: Sequence5 SeedContent: TCGATCTCG Offset In Sequence: 144
+	Sequence Name: Sequence5 SeedContent: TCGACCAGT Offset In Sequence: 150
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTF Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 5
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 9
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 13
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 17
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 21
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 25
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 29
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 33
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 37
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 41
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 45
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 49
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 53
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 57
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 61
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 65
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 69
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 73
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 77
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 81
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 85
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 89
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 93
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 97
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 101
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 105
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 109
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 113
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 117
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 121
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 125
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 129
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 133
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 137
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 141
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFL Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLO Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOG Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGY Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGY Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJ Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJ Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJH Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJH Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: TFLOGYJHS Offset In Sequence: 8
+	Sequence Name: Sequence6 SeedContent: UFLOGYJHS Offset In Sequence: 20
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGT  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 140
+	Sequence Name: Sequence5 SeedContent: TCGATCTCG Offset In Sequence: 144
+	Sequence Name: Sequence5 SeedContent: TCGACCAGT Offset In Sequence: 150
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTF Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 5
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 9
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 13
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 17
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 21
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 25
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 29
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 33
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 37
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 41
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 45
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 49
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 53
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 57
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 61
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 65
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 69
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 73
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 77
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 81
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 85
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 89
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 93
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 97
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 101
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 105
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 109
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 113
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 117
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 121
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 125
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 129
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 133
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 137
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 141
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFL Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLO Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOG Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGY Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGY Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJ Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJ Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJH Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJH Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: TFLOGYJHS Offset In Sequence: 8
+	Sequence Name: Sequence6 SeedContent: UFLOGYJHS Offset In Sequence: 20
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGT  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGAT Offset In Sequence: 140
+	Sequence Name: Sequence5 SeedContent: TCGATCTCG Offset In Sequence: 144
+	Sequence Name: Sequence5 SeedContent: TCGACCAGT Offset In Sequence: 150
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTF Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 5
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 9
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 13
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 17
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 21
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 25
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 29
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 33
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 37
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 41
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 45
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 49
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 53
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 57
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 61
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 65
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 69
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 73
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 77
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 81
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 85
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 89
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 93
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 97
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 101
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 105
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 109
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 113
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 117
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 121
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 125
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 129
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 133
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 137
+	Sequence Name: Sequence5 SeedContent: CGATCGATC Offset In Sequence: 141
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFL Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLO Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOG Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGY Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGY Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJ Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJ Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJH Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJH Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: TFLOGYJHS Offset In Sequence: 8
+	Sequence Name: Sequence6 SeedContent: UFLOGYJHS Offset In Sequence: 20
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: TCGACCAGTF  : 
+
+	Sequence Name: Triptets SeedContent: TCGACCAGTF Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 4
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 8
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 12
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 16
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 20
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 24
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 28
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 32
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 36
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 40
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 48
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 52
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 56
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 60
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 64
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 68
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 72
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 76
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 80
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 84
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 88
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 92
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 96
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 100
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 104
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 108
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 112
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 116
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 120
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 124
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 128
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 132
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 136
+	Sequence Name: Sequence5 SeedContent: TCGATCGATC Offset In Sequence: 140
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CCAGTFLOGY  : 
+
+	Sequence Name: Triptets SeedContent: CCAGTFLOGY Offset In Sequence: 4
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGTFLOGYJH  : 
+
+	Sequence Name: Triptets SeedContent: AGTFLOGYJH Offset In Sequence: 6
+	Sequence Name: Sequence6 SeedContent: FUUFLOGYJH Offset In Sequence: 18
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CGACCAGTFL  : 
+
+	Sequence Name: Triptets SeedContent: CGACCAGTFL Offset In Sequence: 1
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GACCAGTFLO  : 
+
+	Sequence Name: Triptets SeedContent: GACCAGTFLO Offset In Sequence: 2
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GTFLOGYJHS  : 
+
+	Sequence Name: Triptets SeedContent: GTFLOGYJHS Offset In Sequence: 7
+	Sequence Name: Sequence6 SeedContent: UUFLOGYJHS Offset In Sequence: 19
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: ACCAGTFLOG  : 
+
+	Sequence Name: Triptets SeedContent: ACCAGTFLOG Offset In Sequence: 3
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: CAGTFLOGYJ  : 
+
+	Sequence Name: Triptets SeedContent: CAGTFLOGYJ Offset In Sequence: 5
+	Sequence Name: Sequence6 SeedContent: IFUUFLOGYJ Offset In Sequence: 17
+----------------------------------------------------------------------------------------------
+

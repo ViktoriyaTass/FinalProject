@@ -2,16 +2,19 @@ var express = require("express");
 var app = express();  
 var db = require("./database.js");
 var fs = require('fs');
+const { exec } = require('child_process');
 global.nameFileText;
 global.nameFileWords;
 global.lengthOfTheWords;
 global.errorThresholds;
 global.speed;
+global.fileExist=0;
 
 const path = require("path");
 const upload=require("express-fileupload");
 const PORT=process.env.PORT||8080;
-const P= "C:/Users/galbu/Desktop/FFF/upload/input.json"
+const P= "C:/Users/galbu/Desktop/FFF/ProteinPrediction-master (2)/ProteinPrediction-master/DataUser/input.json"
+const PathSaveFailes="C:/Users/galbu/Desktop/FFF/ProteinPrediction-master (2)/ProteinPrediction-master/DataUser/"
 app.use(upload());
 app.use(express.static("public"));
 
@@ -23,6 +26,12 @@ app.use(express.static("public"));
 			res.send(JSON.stringify({res : result}));
 		})
 		
+	});
+	app.get("/checkFile", function(req, res){
+		if (fileExist) 
+		{
+			res.send(JSON.stringify({res : result}));
+		}	
 	});
 
 	app.get("/AddUser",function(req,res){
@@ -68,9 +77,73 @@ app.get("/start",function(req,res){
 			}
 		  });
 
+		 
 
+			// const programPath="C:/Users/galbu/Desktop/FFF/ProteinPrediction-master (2)/ProteinPrediction-master/out/build/x64-Debug/ProteinPredction.exe"
+		  	
+			//   exec(programPath, (error, stdout, stderr) => {
+			// 	if (error) {
+			// 	  console.error(error);
+			// 	  return;
+			// 	}
+			// 	console.log(`Стандартный вывод программы: ${stdout}`);
+  			// 	console.error(`Стандартный вывод ошибок: ${stderr}`);
+			// })
+			
+			checkFileCount()
+			
+			
 
 })
+
+function checkFileCount() {
+
+	const folderPath = PathSaveFailes;
+
+	fs.readdir(folderPath, (err, files) => {
+	  if (err) {
+		console.error('Ошибка чтения папки:', err);
+		return;
+	  }
+	
+	  const fileCount = files.length;
+	  console.log('Количество файлов в папке:', fileCount);
+	  if (fileCount === 1) {
+		  console.log('Количество файлов достигло 1');
+		  
+			const fileName = files[0];
+			const filePath = path.join(folderPath, fileName);
+		
+			fs.readFile(filePath, 'utf8', (err, data) => {
+			  if (err) {
+				console.error('Ошибка чтения файла:', err);
+				return;
+			  }
+		
+			  console.log('Содержимое файла:', data);
+			  fs.writeFile('C:/Users/galbu/Desktop/Ira/FinalProject/public/ansver.txt', data, 'utf8', (err) => {
+				if (err) {
+				  console.error('Ошибка создания файла:', err);
+				  return;
+				}
+			  
+				console.log('Файл успешно создан и сохранен в тело проекта.');
+				fileExist=1;
+			  });
+			});
+		  
+
+
+
+
+		  
+		} else {
+		  console.log('Ожидание изменения количества файлов...');
+		  setTimeout(checkFileCount, 5000); // Задержка выполнения и повторная проверка через 1 секунду
+		}
+	});
+
+}
 
 
 
@@ -88,7 +161,7 @@ app.get("/start",function(req,res){
 		let filename= file.name;
 		console.log(filename);
 		nameFileText=filename;
-		file.mv('C:/Users/galbu/Desktop/FFF/upload/'+filename,(err)=>{
+		file.mv(PathSaveFailes+filename,(err)=>{
 			if(err) throw err;
 		})
 		}
@@ -152,13 +225,13 @@ app.get("/start",function(req,res){
 		let filename= file.name;
 		console.log(filename);
 		nameFileWords=filename;
-		file.mv('C:/Users/galbu/Desktop/FFF/upload/'+filename,(err)=>{
+		file.mv(PathSaveFailes+filename,(err)=>{
 			if(err) throw err;
 		})
 		}
 	})
 
-
+	//"C:/Users/galbu/Desktop/FFF/ProteinPrediction-master (2)/ProteinPrediction-master/DataUser/import.json"
 	
 
 // app.get("/index2", function(req, res){
