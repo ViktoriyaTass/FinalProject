@@ -2,7 +2,7 @@ var express = require("express");
 var app = express();  
 var db = require("./database.js");
 var fs = require('fs');
-const { exec } = require('child_process');
+const e = require('child_process');
 global.nameFileText;
 global.nameFileWords;
 global.lengthOfTheWords;
@@ -28,10 +28,9 @@ app.use(express.static("public"));
 		
 	});
 	app.get("/checkFile", function(req, res){
-		if (fileExist) 
-		{
-			res.send(JSON.stringify({res : result}));
-		}	
+		
+			res.send(JSON.stringify({res : fileExist}));
+			
 	});
 
 	app.get("/AddUser",function(req,res){
@@ -79,9 +78,10 @@ app.get("/start",function(req,res){
 
 		 
 
-			// const programPath="C:/Users/galbu/Desktop/FFF/ProteinPrediction-master (2)/ProteinPrediction-master/out/build/x64-Debug/ProteinPredction.exe"
+			// const programPath="C:/Users/galbu/Desktop/FFF/ProteinPrediction-master (2)/ProteinPrediction-master/out/build/x64-Debug/ProteinPredction.exe";
 		  	
-			//   exec(programPath, (error, stdout, stderr) => {
+			
+			//   e.exec(programPath, (error, stdout, stderr) => {
 			// 	if (error) {
 			// 	  console.error(error);
 			// 	  return;
@@ -121,7 +121,7 @@ function checkFileCount() {
 			  }
 		
 			  console.log('Содержимое файла:', data);
-			  fs.writeFile('C:/Users/galbu/Desktop/Ira/FinalProject/public/ansver.txt', data, 'utf8', (err) => {
+			  fs.writeFile('C:/Users/galbu/Desktop/Ira/FinalProject/public/answer.txt', data, 'utf8', (err) => {
 				if (err) {
 				  console.error('Ошибка создания файла:', err);
 				  return;
@@ -166,6 +166,18 @@ function checkFileCount() {
 		})
 		}
 		console.log("file uploaded");
+
+		const fileUn = 'C:/Users/galbu/Desktop/Ira/FinalProject/public/answer.txt';
+
+		fs.unlink(fileUn, (err) => {
+		  if (err) {
+			console.error('Error deleting file:', err);
+			return;
+		  }
+		
+		  console.log('File deleted successfully.');
+		});
+
 		
 		// //let jsonName="input.json"
 		// var obj = {name : 'john'};

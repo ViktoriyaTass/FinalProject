@@ -195,7 +195,7 @@
             <div> </p></div>
             <div> </p></div>
   <form>
-    <h1>Обработка Данных</h1>
+    <h1>Data processing</h1>
     
     
     
@@ -207,16 +207,30 @@
       
     
       <script>
-        document.addEventListener('DOMContentLoaded', function() {
-          setTimeout(function() {
-            // Redirect to the next page after 2 minutes (120,000 milliseconds)
-            window.location.href = "downloadAns.html";
-          }, 3000);
-        });
+        // document.addEventListener('DOMContentLoaded', function() {
+        //   setTimeout(function() {
+        //     window.location.href = "downloadAns.html";
+        //   }, 30000);
+        // });
+        const req = new XMLHttpRequest();
+          req.addEventListener("load", function(){
+          var res = JSON.parse(this.responseText);
+          console.log("Res: "+res.res);
+         if (res.res)
+         {window.location.href = "downloadAns.html";}
+          else{
+            console.log("file not ready");
+            req.open("GET", "/checkFile");
+         req.send();        
+         }
+         });
+         req.open("GET", "/checkFile");
+         req.send();
+
       </script>
            
         
-      <!-- <br><br><br><br> <a href="ansver.txt" download>Download Ansver File</a> -->
+     
     </body>
     
   </form>
