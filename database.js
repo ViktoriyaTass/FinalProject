@@ -5,7 +5,7 @@ const mysql = require('mysql2');
 
 
 // Create a connection
-const connection = mysql.createConnection({
+const connection = mysql.createConnection({//  create connection to SQL DB 
   host: 'localhost',
   user: 'root',
   password: 'rost1234',
@@ -20,12 +20,12 @@ connection.connect((error) => {
   }
   console.log('Connected to the database');
 
-  // Execute a query
+  
   
 });
 
 module.exports = {
-  data : function(email, password, onRes){
+  data : function(email, password, onRes){// check if user exist in DB
     connection.query("SELECT * FROM sys.users where username='"+email+"' and userpassword='"+password+"'", (error, results) => {
       if (error) {
         console.error('Error executing query:', error);
@@ -35,24 +35,22 @@ module.exports = {
   
   });},
 
-    add : function(email,password,onRes){
+    add : function(email,password,onRes){ // add new user to the DB
 
   connection.query("SELECT * FROM sys.users where username='"+email+"' and userpassword='"+password+"'", (error, results) => {
   console.log(results);
-  if(results.length>0)
-  {onRes (0); }
-  else
+  if(results.length>0)//if user with this parameters exist
+  {onRes (0); }// return 0
+  else// if user with this parameters not exist=
     connection.query("insert into sys.users(username,userPassword) values('"+email+"','"+password+"')",(error,results=>{
     if (error){
       console.error('Error executing query:', error);
       return;
     }
-     onRes(1);
+     onRes(1);// return 1 ( add him to the DB)
     }))
    
   
-  // console.error('Error executing query:', error);
-  //   return;
 
  });
 }}

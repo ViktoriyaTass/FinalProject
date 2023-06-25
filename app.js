@@ -3,22 +3,27 @@ var app = express();
 var db = require("./database.js");
 var fs = require('fs');
 const e = require('child_process');
+const path = require("path");
+const upload=require("express-fileupload");
+
 global.nameFileText;
 global.nameFileWords;
 global.lengthOfTheWords;
 global.errorThresholds;
-global.speed;
+global.speed;// low/Hight speed
 global.fileExist=0;
+global.TimeStart=0;
+global.sizeofFile=0;
 
-const path = require("path");
-const upload=require("express-fileupload");
-const PORT=process.env.PORT||8080;
-const P= "C:/Users/galbu/Desktop/FFF/ProteinPrediction-master (2)/ProteinPrediction-master/DataUser/input.json"
-const PathSaveFailes="C:/Users/galbu/Desktop/FFF/ProteinPrediction-master (2)/ProteinPrediction-master/DataUser/"
+const fileUn = 'C:/Users/Administrator/Documents/FinalProject/public/answer.txt'
+const	PLM="C:/FinalProjectLowMachine/input.json"
+const 	PHM="C:/FinalProjectMediumMachine/input.json"
+const PathSaveFailesLM="C:/FinalProjectLowMachine/"
+const PathSaveFailesHM="C:/FinalProjectMediumMachine/"
 app.use(upload());
 app.use(express.static("public"));
 
-	app.get("/CheckUser", function(req, res){
+	app.get("/CheckUser", function(req, res){// check if this user exist in DB
 
 		var {email, password} = req.query;
 
@@ -27,13 +32,21 @@ app.use(express.static("public"));
 		})
 		
 	});
-	app.get("/checkFile", function(req, res){
+	app.get("/costcheck", function(req, res){// checking the approximate cost of the using mashins 
+
+		
+			res.send(JSON.stringify({res : sizeofFile/1000}));// return size of file * 5
+		
+		
+	});
+
+	app.get("/checkFile", function(req, res){// check if file answer exist in boddy of progect 
 		
 			res.send(JSON.stringify({res : fileExist}));
 			
 	});
 
-	app.get("/AddUser",function(req,res){
+	app.get("/AddUser",function(req,res){// add user to DB
 		var{email,password}=req.query;
 		db.add(email,password,function(result){
 			res.send(
@@ -44,51 +57,40 @@ app.use(express.static("public"));
 	});
 
 
-	app.get("/AddParrameters",function(req,res){
+	app.get("/AddParrameters",function(req,res){// save vareables from HTML to global variebalse
 		var{lengthOfTheWords,errorThresholds,speed}=req.query;
 		console.log(lengthOfTheWords+errorThresholds+speed);
 		global.lengthOfTheWords=lengthOfTheWords;
 		global.errorThresholds=errorThresholds;
 		global.speed=speed;
-		
-
-
-
 	});
 
-app.get("/start",function(req,res){
-
-	var data={
+app.get("/start",function(req,res){// start of the algorithm running
+	TimeStart=new Date();// save start time 
+	var data={// create json data
 		ErrorThresholds:global.errorThresholds,
 		lengthOfTheWords:global.lengthOfTheWords,
 		nameFileText:global.nameFileText,
 		nameFileWords:global.nameFileWords,
 		Speed:global.speed
 	}
-
+		
 		let jsonName="input.json"
-		const jData=JSON.stringify(data);
-		fs.writeFile(P,jData, (err) => {
+		const jData=JSON.stringify(data); // save json file
+		fs.writeFile(PLM,jData, (err) => {
 			if (err) {
 			  console.error('Error creating file:', err);
 			} else {
 			  console.log('File created successfully!');
 			}
 		  });
-
-		 
-
-			// const programPath="C:/Users/galbu/Desktop/FFF/ProteinPrediction-master (2)/ProteinPrediction-master/out/build/x64-Debug/ProteinPredction.exe";
-		  	
-			
-			//   e.exec(programPath, (error, stdout, stderr) => {
-			// 	if (error) {
-			// 	  console.error(error);
-			// 	  return;
-			// 	}
-			// 	console.log(`Стандартный вывод программы: ${stdout}`);
-  			// 	console.error(`Стандартный вывод ошибок: ${stderr}`);
-			// })
+		fs.writeFile(PHM,jData, (err) => {
+			if (err) {
+			  console.error('Error creating file:', err);
+			} else {
+			  console.log('File created successfully!');
+			}
+		  })
 			
 			checkFileCount()
 			
@@ -97,31 +99,35 @@ app.get("/start",function(req,res){
 })
 
 function checkFileCount() {
+	var folderPath="";
+if (speed=="low"){
+	folderPath = PathSaveFailesLM;
+}else{
+	folderPath=PathSaveFailesHM;
+}
 
-	const folderPath = PathSaveFailes;
-
-	fs.readdir(folderPath, (err, files) => {
+	fs.readdir(folderPath, (err, files) => {// try to enter to the file folder
 	  if (err) {
-		console.error('Ошибка чтения папки:', err);
+		//console.error('Ошибка чтения папки:', err);
 		return;
 	  }
 	
 	  const fileCount = files.length;
-	  console.log('Количество файлов в папке:', fileCount);
-	  if (fileCount === 1) {
+	  //console.log('Количество файлов в папке:', fileCount);
+	  if (fileCount === 1) {// if the count of files=1
 		  console.log('Количество файлов достигло 1');
-		  
+		  	var TimeEnd= new Date();// end Time of running algorithm
 			const fileName = files[0];
 			const filePath = path.join(folderPath, fileName);
 		
-			fs.readFile(filePath, 'utf8', (err, data) => {
+			fs.readFile(filePath, 'utf8', (err, data) => {// read file
 			  if (err) {
 				console.error('Ошибка чтения файла:', err);
 				return;
 			  }
-		
+				var Time= (TimeEnd-TimeStart)/1000;// time of using machines
 			  console.log('Содержимое файла:', data);
-			  fs.writeFile('C:/Users/galbu/Desktop/Ira/FinalProject/public/answer.txt', data, 'utf8', (err) => {
+			  fs.writeFile(fileUn,+"\n"+"Operation Time: "+ Time+"sec"+"\n"+ data , 'utf8', (err) => { //save file  with DATA from answer file and Time
 				if (err) {
 				  console.error('Ошибка создания файла:', err);
 				  return;
@@ -133,13 +139,9 @@ function checkFileCount() {
 			});
 		  
 
-
-
-
-		  
 		} else {
-		  console.log('Ожидание изменения количества файлов...');
-		  setTimeout(checkFileCount, 5000); // Задержка выполнения и повторная проверка через 1 секунду
+		  console.log('Ожидание изменения количества файлов...');// waiting  to change the number of files
+		  setTimeout(checkFileCount, 1000); // check every 2 seconds
 		}
 	});
 
@@ -154,75 +156,35 @@ function checkFileCount() {
 		res.sendFile(_dirname+'mainWindow.html')
 
 	})
-	app.post('/file-upload1',(req,res)=>{
+	app.post('/file-upload1',(req,res)=>{// upload ferst file with text
 		
 		if(req.files){
 		let file=req.files.file;
 		let filename= file.name;
-		console.log(filename);
+		console.log(file);
+		sizeofFile=file.size;
+		
 		nameFileText=filename;
-		file.mv(PathSaveFailes+filename,(err)=>{
+		file.mv(PathSaveFailesLM+filename,(err)=>{
+			if(err) throw err;
+		})
+		file.mv(PathSaveFailesHM+filename,(err)=>{
 			if(err) throw err;
 		})
 		}
 		console.log("file uploaded");
 
-		const fileUn = 'C:/Users/galbu/Desktop/Ira/FinalProject/public/answer.txt';
+		
 
-		fs.unlink(fileUn, (err) => {
+		fs.unlink(fileUn, (err) => {// delete file with Old answers  from the boddy of the progect
 		  if (err) {
 			console.error('Error deleting file:', err);
 			return;
 		  }
 		
 		  console.log('File deleted successfully.');
+		  fileExist=0;
 		});
-
-		
-		// //let jsonName="input.json"
-		// var obj = {name : 'john'};
-		// const jData=JSON.stringify(obj);
-		// fs.writeFile(P,jData, (err) => {
-		// 	if (err) {
-		// 	  console.error('Error creating file:', err);
-		// 	} else {
-		// 	  console.log('File created successfully!');
-		// 	}
-		//   });
-		//   	console.log("create json");
-
-
-
-		// 	fs.readFile(P, 'utf8', function(err, data){
-		// 		if (err) {
-		// 			console.error('Error writing JSON file:', err);
-		// 		  } 
-		// 	// Display the file content
-		// 	console.log(data);
-		// 	var obj = data+{name : 'fill'} 
-		// 	let jsonData = JSON.parse(data);
-		// 	console.log("11"+data);
-		// 	;////////////////////////////////////////////////// need change a add data to json
-		// 	const jsonString = JSON.stringify(obj);
-		// 	fs.writeFile(P, jsonString, (err) => {
-		// 		if (err) {
-		// 		  console.error('Error writing JSON file:', err);
-		// 		} else {
-		// 		  console.log('Data uploaded to JSON file successfully!');
-		// 		}
-		// 	  });
-			//   var obj2 = {name : 'fill'} ;
-			//   const jsonString2 = JSON.stringify(obj);
-			//   fs.writeFile('C:/Users/galbu/Desktop/FFF/upload/'+jsonName, jsonString2, (err) => {
-			// 	  if (err) {
-			// 		console.error('Error writing JSON file:', err);
-			// 	  } else {
-			// 		console.log('Data uploaded to JSON file successfully!');
-			// 	  }
-			// 	});
-			//});
-
-
 	})
 
 	app.get('/file-upload2',(req,res)=>{
@@ -230,34 +192,21 @@ function checkFileCount() {
 		res.sendFile(_dirname+'mainWindow.html')
 
 	})
-	app.post('/file-upload2',(req,res)=>{
-		console.log("123")
+	app.post('/file-upload2',(req,res)=>{// upload 2 file with words
 		if(req.files){
 		let file=req.files.file;
 		let filename= file.name;
 		console.log(filename);
 		nameFileWords=filename;
-		file.mv(PathSaveFailes+filename,(err)=>{
+		file.mv(PathSaveFailesLM+filename,(err)=>{
+			if(err) throw err;
+		})
+		file.mv(PathSaveFailesHM+filename,(err)=>{
 			if(err) throw err;
 		})
 		}
 	})
 
-	//"C:/Users/galbu/Desktop/FFF/ProteinPrediction-master (2)/ProteinPrediction-master/DataUser/import.json"
-	
-
-// app.get("/index2", function(req, res){
-// 	res.sendFile(__dirname + "/public/html/index2.html");
-// })
-
-
-// app.get("/index", function(req, res){
-// 	res.sendFile(__dirname + "/public/html/index.html");
-// })
-
-
-
-
-if (app.listen(8080)){
-	console.log("listening on 8080");
+if (app.listen(3000)){
+	console.log("listening on 3000");
 }

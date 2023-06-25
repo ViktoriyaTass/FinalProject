@@ -1,0 +1,36 @@
+0Operation Time: 34.053sec
+Seed Content In Src: TAGCCGATT  : 
+
+	Sequence Name: General SeedContent: TAGCCGATT Offset In Sequence: 0
+	Sequence Name: Sequence5 SeedContent: TAGCCGATT Offset In Sequence: 12
+	Sequence Name: Sequence6 SeedContent: TAGCCGATT Offset In Sequence: 0
+	Sequence Name: Sequence6 SeedContent: TAGCCGATT Offset In Sequence: 12
+	Sequence Name: Sequence6 SeedContent: TAGCAGTAC Offset In Sequence: 33
+	Sequence Name: Sequence5 SeedContent: TCGACGATC Offset In Sequence: 129
+	Sequence Name: Sequence6 SeedContent: CAGCTGACT Offset In Sequence: 44
+	Sequence Name: Sequence5 SeedContent: CAGTCGACG Offset In Sequence: 126
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: AGCCGATTA  : 
+
+	Sequence Name: General SeedContent: AGCCGATTA Offset In Sequence: 1
+	Sequence Name: Sequence5 SeedContent: AGCCGATTA Offset In Sequence: 13
+	Sequence Name: Sequence6 SeedContent: AGCCGATTA Offset In Sequence: 1
+	Sequence Name: Sequence6 SeedContent: AGCCGATTA Offset In Sequence: 13
+	Sequence Name: Sequence5 SeedContent: CGACGATCG Offset In Sequence: 130
+	Sequence Name: Sequence6 SeedContent: AGCTGACTG Offset In Sequence: 45
+	Sequence Name: Sequence5 SeedContent: AGTCGACGA Offset In Sequence: 127
+----------------------------------------------------------------------------------------------
+
+Seed Content In Src: GCCGATTAT  : 
+
+	Sequence Name: General SeedContent: GCCGATTAT Offset In Sequence: 2
+	Sequence Name: Sequence5 SeedContent: GCCGATTAT Offset In Sequence: 14
+	Sequence Name: Sequence6 SeedContent: GCCGATTAT Offset In Sequence: 2
+	Sequence Name: Sequence6 SeedContent: GCCGATTAT Offset In Sequence: 14
+	Sequence Name: Sequence5 SeedContent: GACGATCGA Offset In Sequence: 131
+	Sequence Name: Sequence6 SeedContent: GCTGACTGA Offset In Sequence: 46
+	Sequence Name: Sequence6 SeedContent: GATTATCAT Offset In Sequence: 17
+	Sequence Name: Sequence5 SeedContent: GTCGACGAT Offset In Sequence: 128
+----------------------------------------------------------------------------------------------
+

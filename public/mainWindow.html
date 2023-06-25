@@ -78,25 +78,25 @@
     -->
 
 </head>
-<body style="background-color:rgba(222, 242, 212, 0.605)">
+<body style="background-color:rgba(32, 192, 216, 0.875)">
     <!-- As a link -->
     
-    <a class="button  btn btn-primary " aria-current="page" href="index.html"><b>Application for K-Mismatch</b></a>
+    <a class="button  btn btn-primary " style="margin-left: 550px; " aria-current="page" href="index.html"><b>Application for K-Mismatch</b></a>
             </body>
             
 <div><p> </p></div>
 <div><p> </p></div>
 <div><p> </p></div>
-<body>
-    <form method="post" action="/file-upload1" enctype="multipart/form-data">
+<body><br><br><br><br><br>
+    <form style="margin-left: 500px; " method="post" action="/file-upload1" enctype="multipart/form-data">
         Chose File to Upload<br>
-    <input type="file"   name ="file" accept=".txt"><br>
+    <input type="file"   name ="file" accept=".txt">
     <input type="submit" value="Upload">
     </form>
-
-    <form method="post" action="/file-upload2" enctype="multipart/form-data">
+<br>
+    <form   style="margin-left: 500px; " 200px; method="post" action="/file-upload2" enctype="multipart/form-data">
         Errors File<br>
-    <input type="file"   name ="file" accept=".txt"><br>
+    <input type="file"   name ="file" accept=".txt">
     <input type="submit" value="Upload">
     </form>
 
@@ -105,9 +105,7 @@
         
         <form id="settingsForm">
             <div class="form-group">
-                <!-- <label for="pdfFileInput">Choose File</label> 
-                <input type="file" id="pdfFileInputText"  >
-                <label for="pdfFileInput"   class="choose-file-btn">Select PDF File</label> -->
+              
                 <h2></h2>
                 <h3></h3> 
             </div>
@@ -117,8 +115,8 @@
          
             <div class="form-group">
                 
-                <label for="chooseSpeed">Choose Speed</label>
-                <select id="chooseSpeed">
+                <label style="margin-left: 500px; "  for="chooseSpeed">Choose Speed</label>
+                <select  style="margin-left: 130px;" id="chooseSpeed">
                     <option value="High">High Speed</option>
                     <option value="low">Low Speed</option>
                 
@@ -137,41 +135,42 @@
             </div>
             <div class="container">
                 <form id="settingsForm">
-                    <!-- <div class="form-group">
-                        <label for="pdfFileInputWords">Choose File With Words</label>
-                        <input type="file" id="pdfFileInput" accept="">
-                        <label for="pdfFileInput" class="choose-file-btn">Select PDF File</label>
-                    </div> -->
-
-                    <!-- <div class="radio-group">
-                        <input type="radio" id="searchByLength" name="searchType" value="length">
-                        <label for="searchByLength">Search by Length</label>
-                    </div> -->
+                    
                     
              
         
                            <div class="form-group">
-                <label for="errorTreshold">Error Thresholds</label>
-                <input type="text" id="errorTreshold">
+                <label  style="margin-left: 500px; "for="errorTreshold">Error Thresholds</label>
+                <input style="margin-left: 32px; " type="text" id="errorTreshold">
                            </div>
                            <div><p> </p></div>
             <div><p> </p></div>
             <div><p> </p></div>
             <div class="form-group">
-                <label for="errorTreshold">length of the words</label>
-                <input type="text" id="LengthWord">
+                <label  style="margin-left: 500px; " for="errorTreshold">length of the words</label>
+                <input  style="margin-left: 17px; " type="text" id="LengthWord">
 
                 <div><p> </p></div>
             <div><p> </p></div>
 
-                <button type="button" class="btn btn-primary" onclick="CheckCosts_Function()"><b>Check Costs</b></button>
+                <button style="margin-left: 610px; " type="button" class="btn btn-primary" onclick="CheckCosts_Function()"><b>Check Costs</b></button>
                 <script>
 
                     function CheckCosts_Function()
                     {
+                        const req = new XMLHttpRequest();
+                                                req.addEventListener("load", function(){
+                                                    var res = JSON.parse(this.responseText);
+                                                    console.log("Res: "+res.res);
+                                                    if (res.res)
+                                                    {{alert("cost of the Low mashine "+ Math.floor(res.res)*5+"$\n"+"cost of the Hight mashine "+Math.floor(res.res)*6+"$");}}
+                                                    else{
+                                                        alert('Error');
+                                                    }
+                                                });
+                                                req.open("GET","/costcheck");
+                                                req.send();
                        
-                        window.alert("asdawd");
-                        console.log("234");
                     }
                     </script>
 
@@ -187,52 +186,13 @@
                 <div class="container">
                     <!-- Your form content here -->
                     <div class="footer-buttons">
-                        <button type="button" id="backButton" onclick="goBack()">Back</button>
-                        <button type="button" id="startButton" onclick="startFunction()">Payment</button>
+                        <button style="margin-left: 500px; " type="button" id="backButton" onclick="goBack()">Back</button>
+                        <button  style="margin-left: 200px; "type="button" id="startButton" onclick="startFunction()">Payment</button>
                     </div>
                 </div>
                 <script>
 
-                //     document.getElementById("startButton").addEventListener("click", function() {
-                // var speed = document.getElementById("chooseSpeed").value;
-                // var thresholds= document.getElementById("errorTreshold").value;
-                // var fileInputText = document.getElementById("pdfFileInputText");
-                // var fileText = fileInputText.files[0];
-                // var pdfFileInputWords = document.getElementById("pdfFileInputWords");
-                // var fileWords = fileInputWords.files[0];
-
-                // var formDataText = new FormData();
-                // formDataText.append('pdfFile', fileText);
-
-                // var formDataWords = new FormData();
-                // formDataWords.append('pdfFile', fileWords);
-  
-            //      var data = {
-            //         speed: speed,
-            //           thresholds: thresholds,
-            //           pdfFileText: fileText.name,
-            //           pdfFileWords: fileWords.name
-
-            // };
-
-        //     fetch('userParametrs.json', {
-        //         method: 'POST',
-        //         headers: {
-        //             'Content-Type': 'application/json'
-        //         },
-        //         body: JSON.stringify(data)
-        //     })
-        //     .then(function(response) {
-        //         if (response.ok) {
-        //             console.log('Data saved correctly');
-        //         } else {
-        //             console.error('Error save data');
-        //         }
-        //     })
-        //     .catch(function(error) {
-        //         console.error('Server error', error);
-        //     });
-        // });
+                
                     function goBack() {
                         window.location.href = "logInWindow.html";
                     }
